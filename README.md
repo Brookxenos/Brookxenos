@@ -1,13 +1,4 @@
-<h3 data-importer="text" align="left">Hey 👋! I'm Brook, an aspiring software developer from Ethiopia 🇪🇹.<br>Passionate about technology, coding, and solving real-world problems through creative solutions.<br>I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.<br>Always learning, creating, problem-solving, and connecting with like-minded people. 🚀</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Brookxenos/Brookxenos/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Brookxenos/Brookxenos/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<h4 data-importer="text" align="left">Hey 👋! I'm Brook, an aspiring software developer from Ethiopia 🇪🇹.<br>Passionate about technology, coding, and solving real-world problems through creative solutions.<br>I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.<br>Always learning, creating, problem-solving, and connecting with like-minded people. 🚀</h4>
 
 <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U0OGI3bmJkdjh3bTdra3h6NHgwNDk0bXBiNngweXJxamFvaDhwMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dk0CHl966b8zyxOSGe/giphy.gif"  />
 
