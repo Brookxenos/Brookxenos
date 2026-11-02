@@ -1,4 +1,4 @@
-<p>data-importer="text" align="left">Hey 👋! I'm Biruk, an aspiring software developer from Ethiopia 🇪🇹.<br>Passionate about technology, coding, and solving real-world problems through creative solutions.<br>I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.<br>Always learning, creating, problem-solving, and connecting with like-minded people. 🚀</p>
+<p>Hey 👋! I'm Biruk, an aspiring software developer from Ethiopia 🇪🇹.<br>Passionate about technology, coding, and solving real-world problems through creative solutions.<br>I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.<br>Always learning, creating, problem-solving, and connecting with like-minded people. 🚀</p>
 
 <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U0OGI3bmJkdjh3bTdra3h6NHgwNDk0bXBiNngweXJxamFvaDhwMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dk0CHl966b8zyxOSGe/giphy.gif"  />
 
