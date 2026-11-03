@@ -1,6 +1,6 @@
 |  |  |
 |:---|:---:|
-| **Hey 👋! I'm Brook**<br><br>I'm an aspiring software developer from Ethiopia 🇪🇹, passionate about technology, coding, and solving real-world problems through creative solutions.<br><br>I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.<br><br>**Always learning. Always building. Always improving.** 🚀 | <img src="./brook.gif" width="190" alt="Brook animated GIF" /> |
+| **Hey 👋! I'm Biruk**<br><br>I'm an aspiring software developer from Ethiopia 🇪🇹, passionate about technology, coding, and solving real-world problems through creative solutions.<br><br>I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.<br><br>**Always learning. Always building. Always improving.** 🚀 | <img src="./brook.gif" width="190" alt="Brook animated GIF" /> |
 
 ---
 
