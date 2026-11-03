@@ -7,8 +7,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Brookxenos&style=for-the-badge&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/Brookxenos?style=for-the-badge&color=blue&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/Brookxenos?style=for-the-badge&color=yellow&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/Brookxenos?style=for-the-badge&color=blue&logo=github&label=FOLLOWERS&cacheSeconds=300)
+![GitHub Stars](https://img.shields.io/badge/STARS-33-yellow?style=for-the-badge&logo=github)
 
 <img src="https://img.shields.io/badge/Location-Ethiopia 🇪🇹-green?style=flat-square" />
 <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat-square" />
