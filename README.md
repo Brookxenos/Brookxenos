@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="left">Hey 👋! I'm Brook, an aspiring software developer from Ethiopia 🇪🇹.<br>Passionate about technology, coding, and solving real-world problems through creative solutions.<br>I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.<br>Always learning, creating, problem-solving, and connecting with like-minded people. 🚀</h3>
+<p>Hey 👋! I'm Brook, an aspiring software developer from Ethiopia 🇪🇹.Passionate about technology, coding, and solving real-world problems through creative solutions.I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.Always learning, creating, problem-solving, and connecting with like-minded people. </p>
 
 ###
 
