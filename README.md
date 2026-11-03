@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Brookxenos/Brookxenos/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph" />
 </div>
-
+<img align="right" width="180" src="./brook.gif" alt="Brook's GIF" />
 ---
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N0ZnBwMTdodWVhY3YwbXdwYW93cDVvcjR4MWhudW91YTVpbnhreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dk0CHl966b8zyxOSGe/giphy.gif" alt="Animated GIF" />
