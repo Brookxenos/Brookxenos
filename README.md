@@ -1,4 +1,4 @@
-# Hey 👋! I'm Brook
+# Hey 👋! I'm Biruk
 
 <p>
   I'm an aspiring software developer from Ethiopia 🇪🇹.
