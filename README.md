@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Biruk+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Creative+Thinker+%7C+Problem+Solver+%F0%9F%A7%A0;Building+Ideas+Into+Reality+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+SYSTEM...;%3E+ACCESS+GRANTED+%E2%9C%94;%3E+IDENTITY%3A+BIRUK;%3E+ROLE%3A+SOFTWARE+ENGINEER;%3E+ETHIOPIA+%7C+ADDIS+ABABA;%3E+BUILDING+THE+FUTURE...)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
